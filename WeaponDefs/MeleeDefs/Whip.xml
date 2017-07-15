@@ -21,6 +21,7 @@
 		<equippedAngleOffset>-65</equippedAngleOffset>
 		<costList>
       		<Rope>5</Rope>
+		<Leathery>5</Leathery>
     		</costList>
 		<recipeMaker>
 			<recipeUsers>
