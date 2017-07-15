@@ -2,7 +2,7 @@
 	<ThingDef ParentName="BaseMeleeWeapon_Blunt">
 		<defName>MeleeWeapon_Whip</defName>
 		<label>Whip</label>
-		<description>A simple weapon, just fibers bound together to make a whipping weapon that has a sturdy leather handle.</description>
+		<description>A simple cool weapon, just fibers bound together to make a whipping weapon that has a sturdy leather handle.</description>
 		<graphicData>
 			<texPath>Things/Item/Equipment/WeaponMelee/Club</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
